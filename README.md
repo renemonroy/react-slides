@@ -1,6 +1,6 @@
 # ⎅ React Slides
 
-A prototype component that creates slides from data.
+Creates slides from data (WIP).
 
 ## Usage
 
