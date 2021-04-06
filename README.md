@@ -1,6 +1,6 @@
 # ⎅ React Slides
 
-Creates slides from data (WIP).
+Creates slides from data (WIP). Depends on React (obviously), React Spring, react-use-gesture and Styled Components.
 
 ## Usage
 
