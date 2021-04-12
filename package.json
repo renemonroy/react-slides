@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "start-storybook -p 6006 -s public",
-    "build:storybook": "build-storybook -o docs-build"
+    "build:storybook": "build-storybook -o ./docs"
   },
   "eslintConfig": {
     "extends": [
