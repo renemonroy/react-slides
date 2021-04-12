@@ -77,7 +77,7 @@ const Template: Story<ISlides> = (args) => (
 export const WithGap = Template.bind({});
 WithGap.args = {
   disableDots: true,
-  dotsColor: "#010101",
+  dotsColor: "#000000",
   items: [
     { text: "First" },
     { text: "Second" },
